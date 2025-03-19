@@ -5,12 +5,16 @@
 **Stack-Based Implementations:-**</br>
    1.Implement Queue using Stack ![image](https://github.com/user-attachments/assets/d87dc61e-c1eb-4c9d-ad8a-704ad0e3bcf7) </br>
    2.Implement Deque using Stack 
+   
    ![image](https://github.com/user-attachments/assets/792d2112-ea50-4997-97e0-207565b815e9) </br>
    3.Implement Min Stack using Two Stacks 
+   
    ![image](https://github.com/user-attachments/assets/e07399c2-bc4f-4593-a283-9a0e56a2ccaa) </br>
    4.Implement Max Stack using Two Stacks 
+   
    ![image](https://github.com/user-attachments/assets/97511c80-97f9-48c0-825f-1ef5c778abc9) </br>
    5.Implement Priority Queue using Stack 
+   
    ![image](https://github.com/user-attachments/assets/598c7988-92a5-4d0c-ba9b-9b1ba6bcc841) </br>
    6.Implement BST (Inorder Traversal) using Stack (Iterative DFS)</br>
    7.Implement Graph DFS using Stack (Iterative DFS)</br>
